@@ -28,4 +28,6 @@ ecommerce/
 ├── CSS/ Custom styles
 ├── index.php /Homepage
 └── README.md
+__ Create_admin ,create admin credentails
+
 
